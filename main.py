@@ -3,10 +3,9 @@ from tkinter import ttk
 import csv
 from tkinter import messagebox  # Import messagebox
 
-
-
 name_vars = {}  # Use a dictionary to store name_vars for each equipment category
 grade_vars = {}  # Use a dictionary to store grade_vars for each equipment category
+
 
 def combine_skills(skill_data):
     combined_skills = {}
@@ -36,17 +35,22 @@ def show_results():
         selected_name = name_vars[equipment_name].get()
         selected_grade = grade_vars[equipment_name].get()
 
-        result_data = None
-        for row in equipment_data:
-            if row["Name"] == selected_name and row["Grade"] == selected_grade and row["Equipment"] == equipment_name:
-                result_data = row
-                break
-
-        if result_data:
+        if result_data := next(
+            (
+                row
+                for row in equipment_data
+                if row["Name"] == selected_name
+                and row["Grade"] == selected_grade
+                and row["Equipment"] == equipment_name
+            ),
+            None,
+        ):
             result_text = f"Name: {result_data['Name']}\nEquipment: {result_data['Equipment']}\nGrade: {result_data['Grade']}\n"
             result_text += f"Defense: {result_data['Defense']}\n"
 
-            skill_data = [row for row in equipment_data if row["Name"] == selected_name and row["Grade"] == selected_grade and row["Equipment"] == equipment_name]
+            skill_data = [row for row in equipment_data if
+                          row["Name"] == selected_name and row["Grade"] == selected_grade and row[
+                              "Equipment"] == equipment_name]
             combined_skills = combine_skills(skill_data)
 
             for skill_name, skill_level in combined_skills.items():
@@ -63,11 +67,13 @@ def show_results():
     else:
         messagebox.showerror("Error", "No equipment selected!")
 
+
 def load_data_from_csv(filename):
     with open(filename, mode='r') as file:
         reader = csv.DictReader(file)
         data = list(reader)
     return data
+
 
 root = tk.Tk()
 root.title("Monster Hunter Now Equipment Simulator")
@@ -82,7 +88,13 @@ for i, equipment_name in enumerate(equipment_names):
     label = ttk.Label(equipment_frame, text=f"{equipment_name}:")
     label.grid(row=i, column=0, padx=10, pady=5)
 
-    unique_names = sorted(set(row["Name"] for row in equipment_data if row["Equipment"] == equipment_name))
+    unique_names = sorted(
+        {
+            row["Name"]
+            for row in equipment_data
+            if row["Equipment"] == equipment_name
+        }
+    )
     name_var = tk.StringVar()
     dropdown = ttk.Combobox(equipment_frame, textvariable=name_var, values=unique_names, state="readonly")
     dropdown.grid(row=i, column=1)
@@ -102,6 +114,7 @@ for i, equipment_name in enumerate(equipment_names):
 calculate_button = ttk.Button(root, text="Show Results", command=show_results)
 calculate_button.grid(row=len(equipment_names), column=0, columnspan=6, pady=10)
 
+
 def calculate_total_skill_levels_and_defense():
     total_skills = {}  # Dictionary to store total skill levels
     total_defense = 0  # Variable to store total defense
@@ -110,7 +123,9 @@ def calculate_total_skill_levels_and_defense():
         selected_name = name_vars[equipment_name].get()
         selected_grade = grade_vars[equipment_name].get()
 
-        skill_data = [row for row in equipment_data if row["Name"] == selected_name and row["Grade"] == selected_grade and row["Equipment"] == equipment_name]
+        skill_data = [row for row in equipment_data if
+                      row["Name"] == selected_name and row["Grade"] == selected_grade and row[
+                          "Equipment"] == equipment_name]
 
         combined_skills = combine_skills(skill_data)
 
@@ -132,13 +147,14 @@ def calculate_total_skill_levels_and_defense():
 
     total_skill_label.config(text=total_skill_text)
 
+
 # Modify the "Calculate Total Skill Levels" button to call the new function
-calculate_total_skill_button = ttk.Button(root, text="Calculate Total Skill Levels and Defense", command=calculate_total_skill_levels_and_defense)
+calculate_total_skill_button = ttk.Button(root, text="Calculate Total Skill Levels and Defense",
+                                          command=calculate_total_skill_levels_and_defense)
 calculate_total_skill_button.grid(row=len(equipment_names) + 1, column=0, columnspan=6, pady=10)
 
 # Add a label to display total skill levels and defense
 total_skill_label = ttk.Label(root, text="")
 total_skill_label.grid(row=len(equipment_names) + 2, column=0, columnspan=6)
-
 
 root.mainloop()
