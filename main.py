@@ -99,5 +99,34 @@ for i, equipment_name in enumerate(equipment_names):
 
 calculate_button = ttk.Button(root, text="Show Results", command=show_results)
 calculate_button.grid(row=len(equipment_names), column=0, columnspan=6, pady=10)
+def calculate_total_skill_levels():
+    total_skills = {}  # Dictionary to store total skill levels
+    for equipment_name in equipment_names:
+        selected_name = name_vars[equipment_name].get()
+        selected_grade = grade_vars[equipment_name].get()
+
+        skill_data = [row for row in equipment_data if row["Name"] == selected_name and row["Grade"] == selected_grade and row["Equipment"] == equipment_name]
+
+        combined_skills = combine_skills(skill_data)
+
+        for skill_name, skill_level in combined_skills.items():
+            if skill_name in total_skills:
+                total_skills[skill_name] += skill_level
+            else:
+                total_skills[skill_name] = skill_level
+
+    total_skill_text = "Total Skill Levels:\n"
+    for skill_name, skill_level in total_skills.items():
+        total_skill_text += f"{skill_name}: Level {skill_level}\n"
+
+    total_skill_label.config(text=total_skill_text)
+
+# Add a "Calculate Total Skill Levels" button
+calculate_total_skill_button = ttk.Button(root, text="Calculate Total Skill Levels", command=calculate_total_skill_levels)
+calculate_total_skill_button.grid(row=len(equipment_names) + 1, column=0, columnspan=6, pady=10)
+
+# Add a label to display total skill levels
+total_skill_label = ttk.Label(root, text="")
+total_skill_label.grid(row=len(equipment_names) + 2, column=0, columnspan=6)
 
 root.mainloop()
