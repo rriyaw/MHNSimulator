@@ -139,3 +139,563 @@ Rathalos Helm,Headpiece,Grade 7,119,Attack Boost,2,Fire Attack,1
 Rathalos Helm,Headpiece,Grade 8,139,Attack Boost,2,Fire Attack,1
 Rathalos Helm,Headpiece,Grade 9,160,Attack Boost,2,Fire Attack,1
 Rathalos Helm,Headpiece,Grade 10,182,Attack Boost,2,Fire Attack,1
+Leather Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Leather Mail,Mail,Grade 2,34,Attack Boost,1,N/A,0
+Leather Mail,Mail,Grade 3,49,Attack Boost,1,N/A,0
+Leather Mail,Mail,Grade 4,65,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 5,82,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 6,100,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 7,119,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 8,139,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 9,160,Attack Boost,1,Fire Resistance,1
+Leather Mail,Mail,Grade 10,182,Attack Boost,1,Fire Resistance,1
+Jagras Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Jagras Mail,Mail,Grade 2,34,Rising Tide,1,N/A,0
+Jagras Mail,Mail,Grade 3,49,Rising Tide,1,N/A,0
+Jagras Mail,Mail,Grade 4,65,Rising Tide,1,N/A,0
+Jagras Mail,Mail,Grade 5,82,Rising Tide,1,N/A,0
+Jagras Mail,Mail,Grade 6,100,Rising Tide,2,N/A,0
+Jagras Mail,Mail,Grade 7,119,Rising Tide,2,N/A,0
+Jagras Mail,Mail,Grade 8,139,Rising Tide,2,N/A,0
+Jagras Mail,Mail,Grade 9,160,Rising Tide,2,N/A,0
+Jagras Mail,Mail,Grade 10,182,Rising Tide,2,N/A,0
+Kulu Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Kulu Mail,Mail,Grade 2,34,Guts,1,N/A,0
+Kulu Mail,Mail,Grade 3,49,Guts,1,N/A,0
+Kulu Mail,Mail,Grade 4,65,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 5,82,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 6,100,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 7,119,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 8,139,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 9,160,Guts,2,N/A,0
+Kulu Mail,Mail,Grade 10,182,Guts,2,N/A,0
+Pukei Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Pukei Mail,Mail,Grade 2,34,Poison Resistance,1,N/A,0
+Pukei Mail,Mail,Grade 3,49,Poison Resistance,1,N/A,0
+Pukei Mail,Mail,Grade 4,65,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 5,82,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 6,100,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 7,119,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 8,139,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 9,160,Poison Resistance,1,Focus,1
+Pukei Mail,Mail,Grade 10,182,Poison Resistance,1,Focus,1
+Barroth Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Barroth Mail,Mail,Grade 2,34,Offensive Guard,1,N/A,0
+Barroth Mail,Mail,Grade 3,49,Offensive Guard,1,N/A,0
+Barroth Mail,Mail,Grade 4,65,Offensive Guard,1,N/A,0
+Barroth Mail,Mail,Grade 5,82,Offensive Guard,1,N/A,0
+Barroth Mail,Mail,Grade 6,100,Offensive Guard,2,N/A,0
+Barroth Mail,Mail,Grade 7,119,Offensive Guard,2,N/A,0
+Barroth Mail,Mail,Grade 8,139,Offensive Guard,2,N/A,0
+Barroth Mail,Mail,Grade 9,160,Offensive Guard,2,N/A,0
+Barroth Mail,Mail,Grade 10,182,Offensive Guard,2,N/A,0
+Girros Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Girros Mail,Mail,Grade 2,34,Paralysis Resistance,1,N/A,0
+Girros Mail,Mail,Grade 3,49,Paralysis Resistance,1,N/A,0
+Girros Mail,Mail,Grade 4,65,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 5,82,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 6,100,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 7,119,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 8,139,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 9,160,Paralysis Resistance,1,Sneak Attack,1
+Girros Mail,Mail,Grade 10,182,Paralysis Resistance,1,Sneak Attack,1
+Kadachi Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Kadachi Mail,Mail,Grade 2,34,Evade Extender,1,N/A,0
+Kadachi Mail,Mail,Grade 3,49,Evade Extender,1,N/A,0
+Kadachi Mail,Mail,Grade 4,65,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 5,82,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 6,100,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 7,119,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 8,139,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 9,160,Evade Extender,1,Thunder Attack,1
+Kadachi Mail,Mail,Grade 10,182,Evade Extender,1,Thunder Attack,1
+Paolumu Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Paolumu Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Paolumu Mail,Mail,Grade 3,49,Recoil Down,1,N/A,0
+Paolumu Mail,Mail,Grade 4,65,Recoil Down,1,N/A,0
+Paolumu Mail,Mail,Grade 5,82,Recoil Down,1,N/A,0
+Paolumu Mail,Mail,Grade 6,100,Recoil Down,2,N/A,0
+Paolumu Mail,Mail,Grade 7,119,Recoil Down,2,N/A,0
+Paolumu Mail,Mail,Grade 8,139,Recoil Down,2,N/A,0
+Paolumu Mail,Mail,Grade 9,160,Recoil Down,2,N/A,0
+Paolumu Mail,Mail,Grade 10,182,Recoil Down,2,N/A,0
+Jyurodatus Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Jyurodatus Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Jyurodatus Mail,Mail,Grade 3,49,Water Attack,1,N/A,0
+Jyurodatus Mail,Mail,Grade 4,65,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 5,82,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 6,100,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 7,119,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 8,139,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 9,160,Water Attack,1,Last Stand,1
+Jyurodatus Mail,Mail,Grade 10,182,Water Attack,1,Last Stand,1
+Anjanath Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Anjanath Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Anjanath Mail,Mail,Grade 3,49,N/A,0,N/A,0
+Anjanath Mail,Mail,Grade 4,65,Special Boost,1,N/A,0
+Anjanath Mail,Mail,Grade 5,82,Special Boost,1,N/A,0
+Anjanath Mail,Mail,Grade 6,100,Special Boost,2,N/A,0
+Anjanath Mail,Mail,Grade 7,119,Special Boost,2,N/A,0
+Anjanath Mail,Mail,Grade 8,139,Special Boost,2,N/A,0
+Anjanath Mail,Mail,Grade 9,160,Special Boost,2,N/A,0
+Anjanath Mail,Mail,Grade 10,182,Special Boost,2,N/A,0
+Rathian Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Rathian Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Rathian Mail,Mail,Grade 3,49,N/A,0,N/A,0
+Rathian Mail,Mail,Grade 4,65,Poison Attack,1,N/A,0
+Rathian Mail,Mail,Grade 5,82,Poison Attack,1,N/A,0
+Rathian Mail,Mail,Grade 6,100,Poison Attack,2,N/A,0
+Rathian Mail,Mail,Grade 7,119,Poison Attack,2,N/A,0
+Rathian Mail,Mail,Grade 8,139,Poison Attack,2,N/A,0
+Rathian Mail,Mail,Grade 9,160,Poison Attack,2,N/A,0
+Rathian Mail,Mail,Grade 10,182,Poison Attack,2,N/A,0
+Legiana Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Legiana Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Legiana Mail,Mail,Grade 3,49,N/A,0,N/A,0
+Legiana Mail,Mail,Grade 4,65,N/A,0,N/A,0
+Legiana Mail,Mail,Grade 5,82,Divine Blessing,2,N/A,0
+Legiana Mail,Mail,Grade 6,100,Divine Blessing,2,Windproof,1
+Legiana Mail,Mail,Grade 7,119,Divine Blessing,2,Windproof,1
+Legiana Mail,Mail,Grade 8,139,Divine Blessing,2,Windproof,1
+Legiana Mail,Mail,Grade 9,160,Divine Blessing,2,Windproof,1
+Legiana Mail,Mail,Grade 10,182,Divine Blessing,2,Windproof,1
+Diablos Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Diablos Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Diablos Mail,Mail,Grade 3,49,N/A,0,N/A,0
+Diablos Mail,Mail,Grade 4,65,N/A,0,N/A,0
+Diablos Mail,Mail,Grade 5,82,Slugger,1,N/A,0
+Diablos Mail,Mail,Grade 6,100,Slugger,1,Heroics,1
+Diablos Mail,Mail,Grade 7,119,Slugger,1,Heroics,1
+Diablos Mail,Mail,Grade 8,139,Slugger,1,Heroics,1
+Diablos Mail,Mail,Grade 9,160,Slugger,1,Heroics,1
+Diablos Mail,Mail,Grade 10,182,Slugger,1,Heroics,1
+Rathalos Mail,Mail,Grade 1,20,N/A,0,N/A,0
+Rathalos Mail,Mail,Grade 2,34,N/A,0,N/A,0
+Rathalos Mail,Mail,Grade 3,49,N/A,0,N/A,0
+Rathalos Mail,Mail,Grade 4,65,N/A,0,N/A,0
+Rathalos Mail,Mail,Grade 5,82,Weakness Exploit,1,N/A,0
+Rathalos Mail,Mail,Grade 6,100,Weakness Exploit,2,N/A,0
+Rathalos Mail,Mail,Grade 7,119,Weakness Exploit,2,N/A,0
+Rathalos Mail,Mail,Grade 8,139,Weakness Exploit,2,N/A,0
+Rathalos Mail,Mail,Grade 9,160,Weakness Exploit,2,N/A,0
+Rathalos Mail,Mail,Grade 10,182,Weakness Exploit,2,N/A,0
+Leather Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Leather Vambraces,Vambraces,Grade 2,34,Defense Boost,1,N/A,0
+Leather Vambraces,Vambraces,Grade 3,49,Defense Boost,1,N/A,0
+Leather Vambraces,Vambraces,Grade 4,65,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 5,82,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 6,100,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 7,119,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 8,139,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 9,160,Defense Boost,1,Thunder Resistance,1
+Leather Vambraces,Vambraces,Grade 10,182,Defense Boost,1,Thunder Resistance,1
+Jagras Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Jagras Vambraces,Vambraces,Grade 2,34,Firm Foothold,1,N/A,0
+Jagras Vambraces,Vambraces,Grade 3,49,Firm Foothold,1,N/A,0
+Jagras Vambraces,Vambraces,Grade 4,65,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 5,82,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 6,100,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 7,119,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 8,139,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 9,160,Firm Foothold,1,Water Attack,1
+Jagras Vambraces,Vambraces,Grade 10,182,Firm Foothold,1,Water Attack,1
+Kulu Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Kulu Vambraces,Vambraces,Grade 2,34,Last Stand,1,N/A,0
+Kulu Vambraces,Vambraces,Grade 3,49,Last Stand,1,N/A,0
+Kulu Vambraces,Vambraces,Grade 4,65,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 5,82,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 6,100,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 7,119,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 8,139,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 9,160,Last Stand,1,Critical Eye,1
+Kulu Vambraces,Vambraces,Grade 10,182,Last Stand,1,Critical Eye,1
+Pukei Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Pukei Vambraces,Vambraces,Grade 2,34,Poison Attack,1,N/A,0
+Pukei Vambraces,Vambraces,Grade 3,49,Poison Attack,1,N/A,0
+Pukei Vambraces,Vambraces,Grade 4,65,Poison Attack,1,N/A,0
+Pukei Vambraces,Vambraces,Grade 5,82,Poison Attack,1,N/A,0
+Pukei Vambraces,Vambraces,Grade 6,100,Poison Attack,1,Poison Resistance,1
+Pukei Vambraces,Vambraces,Grade 7,119,Poison Attack,1,Poison Resistance,1
+Pukei Vambraces,Vambraces,Grade 8,139,Poison Attack,1,Poison Resistance,1
+Pukei Vambraces,Vambraces,Grade 9,160,Poison Attack,1,Poison Resistance,1
+Pukei Vambraces,Vambraces,Grade 10,182,Poison Attack,1,Poison Resistance,1
+Barroth Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Barroth Vambraces,Vambraces,Grade 2,34,Guard,1,N/A,0
+Barroth Vambraces,Vambraces,Grade 3,49,Guard,1,N/A,0
+Barroth Vambraces,Vambraces,Grade 4,65,Guard,1,N/A,0
+Barroth Vambraces,Vambraces,Grade 5,82,Guard,1,N/A,0
+Barroth Vambraces,Vambraces,Grade 6,100,Guard,2,N/A,0
+Barroth Vambraces,Vambraces,Grade 7,119,Guard,2,N/A,0
+Barroth Vambraces,Vambraces,Grade 8,139,Guard,2,N/A,0
+Barroth Vambraces,Vambraces,Grade 9,160,Guard,2,N/A,0
+Barroth Vambraces,Vambraces,Grade 10,182,Guard,2,N/A,0
+Girros Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Girros Vambraces,Vambraces,Grade 2,34,Sneak Attack,1,N/A,0
+Girros Vambraces,Vambraces,Grade 3,49,Sneak Attack,1,N/A,0
+Girros Vambraces,Vambraces,Grade 4,65,Sneak Attack,1,N/A,0
+Girros Vambraces,Vambraces,Grade 5,82,Sneak Attack,1,N/A,0
+Girros Vambraces,Vambraces,Grade 6,100,Sneak Attack,1,Earplugs,1
+Girros Vambraces,Vambraces,Grade 7,119,Sneak Attack,1,Earplugs,1
+Girros Vambraces,Vambraces,Grade 8,139,Sneak Attack,1,Earplugs,1
+Girros Vambraces,Vambraces,Grade 9,160,Sneak Attack,1,Earplugs,1
+Girros Vambraces,Vambraces,Grade 10,182,Sneak Attack,1,Earplugs,1
+Kadachi Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Kadachi Vambraces,Vambraces,Grade 2,34,Evade Extender,1,N/A,0
+Kadachi Vambraces,Vambraces,Grade 3,49,Evade Extender,1,N/A,0
+Kadachi Vambraces,Vambraces,Grade 4,65,Evade Extender,1,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 5,82,Evade Extender,1,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 6,100,Evade Extender,2,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 7,119,Evade Extender,2,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 8,139,Evade Extender,2,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 9,160,Evade Extender,2,Artful Dodger,1
+Kadachi Vambraces,Vambraces,Grade 10,182,Evade Extender,2,Artful Dodger,1
+Paolumu Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Paolumu Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Paolumu Vambraces,Vambraces,Grade 3,49,Concentration,1,N/A,0
+Paolumu Vambraces,Vambraces,Grade 4,65,Concentration,1,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 5,82,Concentration,1,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 6,100,Concentration,2,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 7,119,Concentration,2,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 8,139,Concentration,2,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 9,160,Concentration,2,Divine Blessing,1
+Paolumu Vambraces,Vambraces,Grade 10,182,Concentration,2,Divine Blessing,1
+Jyurodatus Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 3,49,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 4,65,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 5,82,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 6,100,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 7,119,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 8,139,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 9,160,Water Attack,1,N/A,0
+Jyurodatus Vambraces,Vambraces,Grade 10,182,Water Attack,1,N/A,0
+Anjanath Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Anjanath Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Anjanath Vambraces,Vambraces,Grade 3,49,N/A,0,N/A,0
+Anjanath Vambraces,Vambraces,Grade 4,65,Fire Attack,1,N/A,0
+Anjanath Vambraces,Vambraces,Grade 5,82,Fire Attack,1,N/A,0
+Anjanath Vambraces,Vambraces,Grade 6,100,Fire Attack,2,N/A,0
+Anjanath Vambraces,Vambraces,Grade 7,119,Fire Attack,2,N/A,0
+Anjanath Vambraces,Vambraces,Grade 8,139,Fire Attack,2,N/A,0
+Anjanath Vambraces,Vambraces,Grade 9,160,Fire Attack,2,N/A,0
+Anjanath Vambraces,Vambraces,Grade 10,182,Fire Attack,2,N/A,0
+Rathian Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Rathian Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Rathian Vambraces,Vambraces,Grade 3,49,N/A,0,N/A,0
+Rathian Vambraces,Vambraces,Grade 4,65,Lock On,1,N/A,0
+Rathian Vambraces,Vambraces,Grade 5,82,Lock On,1,N/A,0
+Rathian Vambraces,Vambraces,Grade 6,100,Lock On,1,Burst,2
+Rathian Vambraces,Vambraces,Grade 7,119,Lock On,1,Burst,2
+Rathian Vambraces,Vambraces,Grade 8,139,Lock On,1,Burst,2
+Rathian Vambraces,Vambraces,Grade 9,160,Lock On,1,Burst,2
+Rathian Vambraces,Vambraces,Grade 10,182,Lock On,1,Burst,2
+Legiana Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Legiana Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Legiana Vambraces,Vambraces,Grade 3,49,N/A,0,N/A,0
+Legiana Vambraces,Vambraces,Grade 4,65,N/A,0,N/A,0
+Legiana Vambraces,Vambraces,Grade 5,82,Reload Speed,1,N/A,0
+Legiana Vambraces,Vambraces,Grade 6,100,Reload Speed,2,N/A,0
+Legiana Vambraces,Vambraces,Grade 7,119,Reload Speed,2,N/A,0
+Legiana Vambraces,Vambraces,Grade 8,139,Reload Speed,2,N/A,0
+Legiana Vambraces,Vambraces,Grade 9,160,Reload Speed,2,N/A,0
+Legiana Vambraces,Vambraces,Grade 10,182,Reload Speed,2,N/A,0
+Diablos Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Diablos Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Diablos Vambraces,Vambraces,Grade 3,49,N/A,0,N/A,0
+Diablos Vambraces,Vambraces,Grade 4,65,N/A,0,N/A,0
+Diablos Vambraces,Vambraces,Grade 5,82,Heroics,2,N/A,0
+Diablos Vambraces,Vambraces,Grade 6,100,Heroics,2,Part Breaker,1
+Diablos Vambraces,Vambraces,Grade 7,119,Heroics,2,Part Breaker,1
+Diablos Vambraces,Vambraces,Grade 8,139,Heroics,2,Part Breaker,1
+Diablos Vambraces,Vambraces,Grade 9,160,Heroics,2,Part Breaker,1
+Diablos Vambraces,Vambraces,Grade 10,182,Heroics,2,Part Breaker,1
+Rathalos Vambraces,Vambraces,Grade 1,20,N/A,0,N/A,0
+Rathalos Vambraces,Vambraces,Grade 2,34,N/A,0,N/A,0
+Rathalos Vambraces,Vambraces,Grade 3,49,N/A,0,N/A,0
+Rathalos Vambraces,Vambraces,Grade 4,65,N/A,0,N/A,0
+Rathalos Vambraces,Vambraces,Grade 5,82,Fire Resistance,1,N/A,0
+Rathalos Vambraces,Vambraces,Grade 6,100,Fire Resistance,1,Attack Boost,1
+Rathalos Vambraces,Vambraces,Grade 7,119,Fire Resistance,1,Attack Boost,1
+Rathalos Vambraces,Vambraces,Grade 8,139,Fire Resistance,1,Attack Boost,1
+Rathalos Vambraces,Vambraces,Grade 9,160,Fire Resistance,1,Attack Boost,1
+Rathalos Vambraces,Vambraces,Grade 10,182,Fire Resistance,1,Attack Boost,1
+Leather Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Leather Coil,Coil,Grade 2,34,Health Boost,1,N/A,0
+Leather Coil,Coil,Grade 3,49,Health Boost,1,N/A,0
+Leather Coil,Coil,Grade 4,65,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 5,82,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 6,100,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 7,119,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 8,139,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 9,160,Health Boost,1,Water Resistance,1
+Leather Coil,Coil,Grade 10,182,Health Boost,1,Water Resistance,1
+Jagras Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Jagras Coil,Coil,Grade 2,34,Fortify,1,N/A,0
+Jagras Coil,Coil,Grade 3,49,Fortify,1,N/A,0
+Jagras Coil,Coil,Grade 4,65,Fortify,1,Rising Tide,1
+Jagras Coil,Coil,Grade 5,82,Fortify,1,Rising Tide,1
+Jagras Coil,Coil,Grade 6,100,Fortify,2,Rising Tide,1
+Jagras Coil,Coil,Grade 7,119,Fortify,2,Rising Tide,1
+Jagras Coil,Coil,Grade 8,139,Fortify,2,Rising Tide,1
+Jagras Coil,Coil,Grade 9,160,Fortify,2,Rising Tide,1
+Jagras Coil,Coil,Grade 10,182,Fortify,2,Rising Tide,1
+Kulu Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Kulu Coil,Coil,Grade 2,34,Last Stand,1,N/A,0
+Kulu Coil,Coil,Grade 3,49,Last Stand,1,N/A,0
+Kulu Coil,Coil,Grade 4,65,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 5,82,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 6,100,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 7,119,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 8,139,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 9,160,Last Stand,1,Evade Extender,1
+Kulu Coil,Coil,Grade 10,182,Last Stand,1,Evade Extender,1
+Pukei Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Pukei Coil,Coil,Grade 2,34,Poison Attack,1,N/A,0
+Pukei Coil,Coil,Grade 3,49,Poison Attack,1,N/A,0
+Pukei Coil,Coil,Grade 4,65,Poison Attack,1,N/A,0
+Pukei Coil,Coil,Grade 5,82,Poison Attack,1,N/A,0
+Pukei Coil,Coil,Grade 6,100,Poison Attack,2,N/A,0
+Pukei Coil,Coil,Grade 7,119,Poison Attack,2,N/A,0
+Pukei Coil,Coil,Grade 8,139,Poison Attack,2,N/A,0
+Pukei Coil,Coil,Grade 9,160,Poison Attack,2,N/A,0
+Pukei Coil,Coil,Grade 10,182,Poison Attack,2,N/A,0
+Barroth Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Barroth Coil,Coil,Grade 2,34,Defense Boost,1,N/A,0
+Barroth Coil,Coil,Grade 3,49,Defense Boost,1,N/A,0
+Barroth Coil,Coil,Grade 4,65,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 5,82,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 6,100,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 7,119,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 8,139,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 9,160,Defense Boost,1,Guard,1
+Barroth Coil,Coil,Grade 10,182,Defense Boost,1,Guard,1
+Girros Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Girros Coil,Coil,Grade 2,34,Paralysis Attack,1,N/A,0
+Girros Coil,Coil,Grade 3,49,Paralysis Attack,1,N/A,0
+Girros Coil,Coil,Grade 4,65,Paralysis Attack,1,Earplugs,1
+Girros Coil,Coil,Grade 5,82,Paralysis Attack,1,Earplugs,1
+Girros Coil,Coil,Grade 6,100,Paralysis Attack,1,Earplugs,2
+Girros Coil,Coil,Grade 7,119,Paralysis Attack,1,Earplugs,2
+Girros Coil,Coil,Grade 8,139,Paralysis Attack,1,Earplugs,2
+Girros Coil,Coil,Grade 9,160,Paralysis Attack,1,Earplugs,2
+Girros Coil,Coil,Grade 10,182,Paralysis Attack,1,Earplugs,2
+Kadachi Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Kadachi Coil,Coil,Grade 2,34,Thunder Attack,1,N/A,0
+Kadachi Coil,Coil,Grade 3,49,Thunder Attack,1,N/A,0
+Kadachi Coil,Coil,Grade 4,65,Thunder Attack,1,N/A,0
+Kadachi Coil,Coil,Grade 5,82,Thunder Attack,1,N/A,0
+Kadachi Coil,Coil,Grade 6,100,Thunder Attack,2,N/A,0
+Kadachi Coil,Coil,Grade 7,119,Thunder Attack,2,N/A,0
+Kadachi Coil,Coil,Grade 8,139,Thunder Attack,2,N/A,0
+Kadachi Coil,Coil,Grade 9,160,Thunder Attack,2,N/A,0
+Kadachi Coil,Coil,Grade 10,182,Thunder Attack,2,N/A,0
+Paolumu Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Paolumu Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Paolumu Coil,Coil,Grade 3,49,Divine Blessing,1,N/A,0
+Paolumu Coil,Coil,Grade 4,65,Divine Blessing,1,N/A,0
+Paolumu Coil,Coil,Grade 5,82,Divine Blessing,1,N/A,0
+Paolumu Coil,Coil,Grade 6,100,Divine Blessing,2,N/A,0
+Paolumu Coil,Coil,Grade 7,119,Divine Blessing,2,N/A,0
+Paolumu Coil,Coil,Grade 8,139,Divine Blessing,2,N/A,0
+Paolumu Coil,Coil,Grade 9,160,Divine Blessing,2,N/A,0
+Paolumu Coil,Coil,Grade 10,182,Divine Blessing,2,N/A,0
+Jyurodatus Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Jyurodatus Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Jyurodatus Coil,Coil,Grade 3,49,Water Resistance,1,N/A,0
+Jyurodatus Coil,Coil,Grade 4,65,Water Resistance,1,N/A,0
+Jyurodatus Coil,Coil,Grade 5,82,Water Resistance,1,N/A,0
+Jyurodatus Coil,Coil,Grade 6,100,Water Resistance,2,N/A,0
+Jyurodatus Coil,Coil,Grade 7,119,Water Resistance,2,N/A,0
+Jyurodatus Coil,Coil,Grade 8,139,Water Resistance,2,N/A,0
+Jyurodatus Coil,Coil,Grade 9,160,Water Resistance,2,N/A,0
+Jyurodatus Coil,Coil,Grade 10,182,Water Resistance,2,N/A,0
+Anjanath Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Anjanath Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Anjanath Coil,Coil,Grade 3,49,N/A,0,N/A,0
+Anjanath Coil,Coil,Grade 4,65,Fire Resistance,1,N/A,0
+Anjanath Coil,Coil,Grade 5,82,Fire Resistance,1,N/A,0
+Anjanath Coil,Coil,Grade 6,100,Fire Resistance,1,Special Boost,1
+Anjanath Coil,Coil,Grade 7,119,Fire Resistance,1,Special Boost,1
+Anjanath Coil,Coil,Grade 8,139,Fire Resistance,1,Special Boost,1
+Anjanath Coil,Coil,Grade 9,160,Fire Resistance,1,Special Boost,1
+Anjanath Coil,Coil,Grade 10,182,Fire Resistance,1,Special Boost,1
+Rathian Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Rathian Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Rathian Coil,Coil,Grade 3,49,N/A,0,N/A,0
+Rathian Coil,Coil,Grade 4,65,Poison Resistance,1,N/A,0
+Rathian Coil,Coil,Grade 5,82,Poison Resistance,1,N/A,0
+Rathian Coil,Coil,Grade 6,100,Poison Resistance,1,Burst,1
+Rathian Coil,Coil,Grade 7,119,Poison Resistance,1,Burst,1
+Rathian Coil,Coil,Grade 8,139,Poison Resistance,1,Burst,1
+Rathian Coil,Coil,Grade 9,160,Poison Resistance,1,Burst,1
+Rathian Coil,Coil,Grade 10,182,Poison Resistance,1,Burst,1
+Legiana Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Legiana Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Legiana Coil,Coil,Grade 3,49,N/A,0,N/A,0
+Legiana Coil,Coil,Grade 4,65,N/A,0,N/A,0
+Legiana Coil,Coil,Grade 5,82,Ice Attack,2,N/A,0
+Legiana Coil,Coil,Grade 6,100,Ice Attack,2,Windproof,1
+Legiana Coil,Coil,Grade 7,119,Ice Attack,2,Windproof,1
+Legiana Coil,Coil,Grade 8,139,Ice Attack,2,Windproof,1
+Legiana Coil,Coil,Grade 9,160,Ice Attack,2,Windproof,1
+Legiana Coil,Coil,Grade 10,182,Ice Attack,2,Windproof,1
+Diablos Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Diablos Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Diablos Coil,Coil,Grade 3,49,N/A,0,N/A,0
+Diablos Coil,Coil,Grade 4,65,N/A,0,N/A,0
+Diablos Coil,Coil,Grade 5,82,Part Breaker,1,N/A,0
+Diablos Coil,Coil,Grade 6,100,Part Breaker,1,Offensive Guard,1
+Diablos Coil,Coil,Grade 7,119,Part Breaker,1,Offensive Guard,1
+Diablos Coil,Coil,Grade 8,139,Part Breaker,1,Offensive Guard,1
+Diablos Coil,Coil,Grade 9,160,Part Breaker,1,Offensive Guard,1
+Diablos Coil,Coil,Grade 10,182,Part Breaker,1,Offensive Guard,1
+Rathalos Coil,Coil,Grade 1,20,N/A,0,N/A,0
+Rathalos Coil,Coil,Grade 2,34,N/A,0,N/A,0
+Rathalos Coil,Coil,Grade 3,49,N/A,0,N/A,0
+Rathalos Coil,Coil,Grade 4,65,N/A,0,N/A,0
+Rathalos Coil,Coil,Grade 5,82,Focus,1,N/A,0
+Rathalos Coil,Coil,Grade 6,100,Focus,1,Fire Attack,1
+Rathalos Coil,Coil,Grade 7,119,Focus,1,Fire Attack,1
+Rathalos Coil,Coil,Grade 8,139,Focus,1,Fire Attack,1
+Rathalos Coil,Coil,Grade 9,160,Focus,1,Fire Attack,1
+Rathalos Coil,Coil,Grade 10,182,Focus,1,Fire Attack,1
+Leather Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Leather Greaves,Shoes,Grade 2,34,Poison Resistance,1,N/A,0
+Leather Greaves,Shoes,Grade 3,49,Poison Resistance,1,N/A,0
+Leather Greaves,Shoes,Grade 4,65,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 5,82,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 6,100,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 7,119,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 8,139,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 9,160,Poison Resistance,1,Paralysis Resistance,1
+Leather Greaves,Shoes,Grade 10,182,Poison Resistance,1,Paralysis Resistance,1
+Jagras Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Jagras Greaves,Shoes,Grade 2,34,Water Attack,1,N/A,0
+Jagras Greaves,Shoes,Grade 3,49,Water Attack,1,N/A,0
+Jagras Greaves,Shoes,Grade 4,65,Water Attack,1,N/A,0
+Jagras Greaves,Shoes,Grade 5,82,Water Attack,1,N/A,0
+Jagras Greaves,Shoes,Grade 6,100,Water Attack,2,N/A,0
+Jagras Greaves,Shoes,Grade 7,119,Water Attack,2,N/A,0
+Jagras Greaves,Shoes,Grade 8,139,Water Attack,2,N/A,0
+Jagras Greaves,Shoes,Grade 9,160,Water Attack,2,N/A,0
+Jagras Greaves,Shoes,Grade 10,182,Water Attack,2,N/A,0
+Kulu Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Kulu Greaves,Shoes,Grade 2,34,Critical Eye,1,N/A,0
+Kulu Greaves,Shoes,Grade 3,49,Critical Eye,1,N/A,0
+Kulu Greaves,Shoes,Grade 4,65,Critical Eye,1,N/A,0
+Kulu Greaves,Shoes,Grade 5,82,Critical Eye,1,N/A,0
+Kulu Greaves,Shoes,Grade 6,100,Critical Eye,2,N/A,0
+Kulu Greaves,Shoes,Grade 7,119,Critical Eye,2,N/A,0
+Kulu Greaves,Shoes,Grade 8,139,Critical Eye,2,N/A,0
+Kulu Greaves,Shoes,Grade 9,160,Critical Eye,2,N/A,0
+Kulu Greaves,Shoes,Grade 10,182,Critical Eye,2,N/A,0
+Pukei Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Pukei Greaves,Shoes,Grade 2,34,Health Boost,1,N/A,0
+Pukei Greaves,Shoes,Grade 3,49,Health Boost,1,N/A,0
+Pukei Greaves,Shoes,Grade 4,65,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 5,82,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 6,100,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 7,119,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 8,139,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 9,160,Health Boost,1,Poison Resistance,1
+Pukei Greaves,Shoes,Grade 10,182,Health Boost,1,Poison Resistance,1
+Barroth Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Barroth Greaves,Shoes,Grade 2,34,Recoil Down,1,N/A,0
+Barroth Greaves,Shoes,Grade 3,49,Recoil Down,1,N/A,0
+Barroth Greaves,Shoes,Grade 4,65,Recoil Down,1,Defense Boost,1
+Barroth Greaves,Shoes,Grade 5,82,Recoil Down,1,Defense Boost,1
+Barroth Greaves,Shoes,Grade 6,100,Recoil Down,1,Defense Boost,2
+Barroth Greaves,Shoes,Grade 7,119,Recoil Down,1,Defense Boost,2
+Barroth Greaves,Shoes,Grade 8,139,Recoil Down,1,Defense Boost,2
+Barroth Greaves,Shoes,Grade 9,160,Recoil Down,1,Defense Boost,2
+Barroth Greaves,Shoes,Grade 10,182,Recoil Down,1,Defense Boost,2
+Girros Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Girros Greaves,Shoes,Grade 2,34,Paralysis Attack,1,N/A,0
+Girros Greaves,Shoes,Grade 3,49,Paralysis Attack,1,N/A,0
+Girros Greaves,Shoes,Grade 4,65,Paralysis Attack,1,N/A,0
+Girros Greaves,Shoes,Grade 5,82,Paralysis Attack,1,N/A,0
+Girros Greaves,Shoes,Grade 6,100,Paralysis Attack,2,N/A,0
+Girros Greaves,Shoes,Grade 7,119,Paralysis Attack,2,N/A,0
+Girros Greaves,Shoes,Grade 8,139,Paralysis Attack,2,N/A,0
+Girros Greaves,Shoes,Grade 9,160,Paralysis Attack,2,N/A,0
+Girros Greaves,Shoes,Grade 10,182,Paralysis Attack,2,N/A,0
+Kadachi Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Kadachi Greaves,Shoes,Grade 2,34,Artful Dodger,1,N/A,0
+Kadachi Greaves,Shoes,Grade 3,49,Artful Dodger,1,N/A,0
+Kadachi Greaves,Shoes,Grade 4,65,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 5,82,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 6,100,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 7,119,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 8,139,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 9,160,Artful Dodger,1,Thunder Resistance,1
+Kadachi Greaves,Shoes,Grade 10,182,Artful Dodger,1,Thunder Resistance,1
+Paolumu Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Paolumu Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Paolumu Greaves,Shoes,Grade 3,49,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 4,65,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 5,82,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 6,100,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 7,119,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 8,139,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 9,160,Windproof,1,N/A,0
+Paolumu Greaves,Shoes,Grade 10,182,Windproof,1,N/A,0
+Jyurodatus Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Jyurodatus Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Jyurodatus Greaves,Shoes,Grade 3,49,Focus,1,N/A,0
+Jyurodatus Greaves,Shoes,Grade 4,65,Focus,1,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 5,82,Focus,1,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 6,100,Focus,2,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 7,119,Focus,2,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 8,139,Focus,2,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 9,160,Focus,2,Last Stand,1
+Jyurodatus Greaves,Shoes,Grade 10,182,Focus,2,Last Stand,1
+Anjanath Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Anjanath Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Anjanath Greaves,Shoes,Grade 3,49,N/A,0,N/A,0
+Anjanath Greaves,Shoes,Grade 4,65,Peak Performance,1,N/A,0
+Anjanath Greaves,Shoes,Grade 5,82,Peak Performance,1,N/A,0
+Anjanath Greaves,Shoes,Grade 6,100,Peak Performance,2,N/A,0
+Anjanath Greaves,Shoes,Grade 7,119,Peak Performance,2,N/A,0
+Anjanath Greaves,Shoes,Grade 8,139,Peak Performance,2,N/A,0
+Anjanath Greaves,Shoes,Grade 9,160,Peak Performance,2,N/A,0
+Anjanath Greaves,Shoes,Grade 10,182,Peak Performance,2,N/A,0
+Rathian Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Rathian Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Rathian Greaves,Shoes,Grade 3,49,N/A,0,N/A,0
+Rathian Greaves,Shoes,Grade 4,65,Attack Boost,1,N/A,0
+Rathian Greaves,Shoes,Grade 5,82,Attack Boost,1,N/A,0
+Rathian Greaves,Shoes,Grade 6,100,Attack Boost,2,N/A,0
+Rathian Greaves,Shoes,Grade 7,119,Attack Boost,2,N/A,0
+Rathian Greaves,Shoes,Grade 8,139,Attack Boost,2,N/A,0
+Rathian Greaves,Shoes,Grade 9,160,Attack Boost,2,N/A,0
+Rathian Greaves,Shoes,Grade 10,182,Attack Boost,2,N/A,0
+Legiana Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Legiana Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Legiana Greaves,Shoes,Grade 3,49,N/A,0,N/A,0
+Legiana Greaves,Shoes,Grade 4,65,N/A,0,N/A,0
+Legiana Greaves,Shoes,Grade 5,82,Reload speed,1,N/A,0
+Legiana Greaves,Shoes,Grade 6,100,Reload speed,1,Ice Resistance,1
+Legiana Greaves,Shoes,Grade 7,119,Reload speed,1,Ice Resistance,1
+Legiana Greaves,Shoes,Grade 8,139,Reload speed,1,Ice Resistance,1
+Legiana Greaves,Shoes,Grade 9,160,Reload speed,1,Ice Resistance,1
+Legiana Greaves,Shoes,Grade 10,182,Reload speed,1,Ice Resistance,1
+Diablos Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Diablos Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Diablos Greaves,Shoes,Grade 3,49,N/A,0,N/A,0
+Diablos Greaves,Shoes,Grade 4,65,N/A,0,N/A,0
+Diablos Greaves,Shoes,Grade 5,82,Slugger,2,N/A,0
+Diablos Greaves,Shoes,Grade 6,100,Slugger,2,Part Breaker,1
+Diablos Greaves,Shoes,Grade 7,119,Slugger,2,Part Breaker,1
+Diablos Greaves,Shoes,Grade 8,139,Slugger,2,Part Breaker,1
+Diablos Greaves,Shoes,Grade 9,160,Slugger,2,Part Breaker,1
+Diablos Greaves,Shoes,Grade 10,182,Slugger,2,Part Breaker,1
+Rathalos Greaves,Shoes,Grade 1,20,N/A,0,N/A,0
+Rathalos Greaves,Shoes,Grade 2,34,N/A,0,N/A,0
+Rathalos Greaves,Shoes,Grade 3,49,N/A,0,N/A,0
+Rathalos Greaves,Shoes,Grade 4,65,N/A,0,N/A,0
+Rathalos Greaves,Shoes,Grade 5,82,Fire Resistance,1,N/A,0
+Rathalos Greaves,Shoes,Grade 6,100,Fire Resistance,1,Weakness Exploit,1
+Rathalos Greaves,Shoes,Grade 7,119,Fire Resistance,1,Weakness Exploit,1
+Rathalos Greaves,Shoes,Grade 8,139,Fire Resistance,1,Weakness Exploit,1
+Rathalos Greaves,Shoes,Grade 9,160,Fire Resistance,1,Weakness Exploit,1
+Rathalos Greaves,Shoes,Grade 10,182,Fire Resistance,1,Weakness Exploit,1
